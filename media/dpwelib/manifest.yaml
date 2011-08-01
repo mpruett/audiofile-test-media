@@ -1,0 +1,74 @@
+-
+  path: testR22C1Fs.aif
+  sourceURL: ftp://ftp.icsi.berkeley.edu/pub/real/dpwe/dpwelib-testsnds.tar.gz
+  fileFormat: aiff
+  sampleFormat: s16
+  byteOrder: big
+  sampleRate: 22050
+  bytes: 44812
+  frames: 22406
+  channels: 1
+  md5sum: '2057f4b8091749e8cc57ae5a29ee17a4'
+-
+  path: testR22C1Fs.au
+  sourceURL: ftp://ftp.icsi.berkeley.edu/pub/real/dpwe/dpwelib-testsnds.tar.gz
+  fileFormat: next
+  sampleFormat: s16
+  sampleRate: 22050
+  frames: 22406
+  bytes: 44812
+  channels: 1
+  md5sum: '412759d1b0758c498670adc58a37eade'
+-
+  path: testR22C1Fs.irc
+  sourceURL: ftp://ftp.icsi.berkeley.edu/pub/real/dpwe/dpwelib-testsnds.tar.gz
+  fileFormat: bicsf
+  sampleFormat: s16
+  byteOrder: big
+  sampleRate: 22050
+  bytes: 44812
+  frames: 22406
+  channels: 1
+  md5sum: 'bd4248490f257472d6dc1a1d26252684'
+-
+  path: testR22C1Fs.nist
+  sourceURL: ftp://ftp.icsi.berkeley.edu/pub/real/dpwe/dpwelib-testsnds.tar.gz
+  fileFormat: nist
+  sampleFormat: s16
+  byteOrder: big
+  sampleRate: 22050
+  bytes: 44812
+  frames: 22406
+  channels: 1
+  md5sum: '46ddaa28804a9474997c86072dea05f2'
+-
+  path: testR22C1Fs.wav
+  sourceURL: ftp://ftp.icsi.berkeley.edu/pub/real/dpwe/dpwelib-testsnds.tar.gz
+  fileFormat: wave
+  sampleFormat: s16
+  byteOrder: little
+  sampleRate: 22050
+  bytes: 44812
+  frames: 22406
+  channels: 1
+  md5sum: '5e370016e416d70ab36dd0cdfe4a8c56'
+-
+  path: testR22C1Fu.au
+  sourceURL: ftp://ftp.icsi.berkeley.edu/pub/real/dpwe/dpwelib-testsnds.tar.gz
+  fileFormat: next
+  compression: ulaw
+  sampleRate: 22050
+  frames: 22406
+  bytes: 22406
+  channels: 1
+  md5sum: 'f2db3cb143b8b30fc82bd53c6ae34b87'
+-
+  path: testR22C1Fu.nist
+  sourceURL: ftp://ftp.icsi.berkeley.edu/pub/real/dpwe/dpwelib-testsnds.tar.gz
+  fileFormat: nist
+  compression: ulaw
+  sampleRate: 22050
+  frames: 22406
+  bytes: 22406
+  channels: 1
+  md5sum: 'ea60f3164ad99c1758925f3ef84d7a5b'

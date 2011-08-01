@@ -1,0 +1,48 @@
+-
+  path: addf8-mips-be.sf
+  fileFormat: bicsf
+  sampleRate: 8000
+  compression: none
+  sampleFormat: s16
+  byteOrder: big
+  channels: 1
+  frames: 23808
+  bytes: 47616
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/IRCAM/Samples/addf8-mips-be.sf
+  md5sum: 'bc32edd62b5e90715fa1fb0630cad852'
+-
+  path: addf8-sun-be.sf
+  fileFormat: bicsf
+  sampleRate: 8000
+  compression: none
+  sampleFormat: s16
+  byteOrder: big
+  channels: 1
+  frames: 23808
+  bytes: 47616
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/IRCAM/Samples/addf8-sun-be.sf
+  md5sum: '6b69a371f19e85e73908a5e311aa8e7e'
+-
+  path: addf8-vax-be.sf
+  fileFormat: bicsf
+  sampleRate: 8000
+  compression: none
+  sampleFormat: s16
+  byteOrder: big
+  channels: 1
+  frames: 23808
+  bytes: 47616
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/IRCAM/Samples/addf8-vax-be.sf
+  md5sum: '5a1d9c57c266701b184cb0b7c8a75d3f'
+-
+  path: manna-mips-le-f.sf
+  fileFormat: bicsf
+  sampleRate: 44100
+  compression: none
+  sampleFormat: f32
+  byteOrder: little
+  channels: 1
+  frames: 23501
+  bytes: 94004
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/IRCAM/Samples/manna-mips-le-f.sf
+  md5sum: '8b958fe6bfad4576142b005f39c8c0d9'

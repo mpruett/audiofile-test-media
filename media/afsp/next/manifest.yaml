@@ -1,0 +1,91 @@
+-
+  path: M1F1-Alaw-AFsp.au
+  fileFormat: next
+  compression: alaw
+  channels: 2
+  frames: 23493
+  bytes: 46986
+  sampleRate: 8000
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/AU/Samples/AFsp/M1F1-Alaw-AFsp.au
+  md5sum: 'cddda686e6649b17b3c6ca6c25473d3b'
+-
+  path: M1F1-float32-AFsp.au
+  fileFormat: next
+  sampleFormat: f32
+  byteOrder: big
+  compression: none
+  channels: 2
+  frames: 23493
+  bytes: 187944
+  sampleRate: 8000
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/AU/Samples/AFsp/M1F1-float32-AFsp.au
+  md5sum: '974c49cbc0b56992b32c3441aaef1f99'
+-
+  path: M1F1-float64-AFsp.au
+  fileFormat: next
+  sampleFormat: f64
+  byteOrder: big
+  compression: none
+  channels: 2
+  frames: 23493
+  bytes: 375888
+  sampleRate: 8000
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/AU/Samples/AFsp/M1F1-float64-AFsp.au
+  md5sum: '78b775c5bf52261b1ebbd4743c263e0d'
+-
+  path: M1F1-int16-AFsp.au
+  fileFormat: next
+  sampleFormat: s16
+  byteOrder: big
+  compression: none
+  channels: 2
+  frames: 23493
+  bytes: 93972
+  sampleRate: 8000
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/AU/Samples/AFsp/M1F1-int16-AFsp.au
+  md5sum: '8e15a7888b140e34a5a161d96c0f2e04'
+-
+  path: M1F1-int24-AFsp.au
+  fileFormat: next
+  sampleFormat: s24
+  byteOrder: big
+  compression: none
+  channels: 2
+  frames: 23493
+  bytes: 140958
+  sampleRate: 8000
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/AU/Samples/AFsp/M1F1-int24-AFsp.au
+  md5sum: '56c80944dc4b38b4b578ab325ec2be89'
+-
+  path: M1F1-int32-AFsp.au
+  fileFormat: next
+  sampleFormat: s32
+  byteOrder: big
+  compression: none
+  channels: 2
+  frames: 23493
+  bytes: 187944
+  sampleRate: 8000
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/AU/Samples/AFsp/M1F1-int32-AFsp.au
+  md5sum: '4c23255a1a569e3aba1a0be6c522aa79'
+-
+  path: M1F1-int8-AFsp.au
+  fileFormat: next
+  sampleFormat: s8
+  compression: none
+  channels: 2
+  frames: 23493
+  bytes: 46986
+  sampleRate: 8000
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/AU/Samples/AFsp/M1F1-int8-AFsp.au
+  md5sum: 'dbde1e5f1d63194aad6819171e43c19e'
+-
+  path: M1F1-mulaw-AFsp.au
+  fileFormat: next
+  compression: ulaw
+  channels: 2
+  frames: 23493
+  bytes: 46986
+  sampleRate: 8000
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/AU/Samples/AFsp/M1F1-mulaw-AFsp.au
+  md5sum: '1b3201df72f52380580b6911f84d761d'

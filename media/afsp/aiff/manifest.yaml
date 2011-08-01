@@ -1,0 +1,207 @@
+-
+  path: M1F1-AlawC-AFsp.aif
+  fileFormat: aifc
+  compression: alaw
+  channels: 2
+  frames: 23493
+  bytes: 46986
+  sampleRate: 8000
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/aiff/Samples/AFsp/M1F1-AlawC-AFsp.aif
+  md5sum: '03d1083654871cbfd5ab6a081f92f375'
+-
+  path: M1F1-float32C-AFsp.aif
+  fileFormat: aifc
+  compression: none
+  sampleFormat: f32
+  byteOrder: big
+  channels: 2
+  frames: 23493
+  bytes: 187944
+  sampleRate: 8000
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/aiff/Samples/AFsp/M1F1-float32C-AFsp.aif
+  md5sum: '209eb4fbf4fd22efcfe2157955883e1d'
+-
+  path: M1F1-float64C-AFsp.aif
+  fileFormat: aifc
+  compression: none
+  sampleFormat: f64
+  byteOrder: big
+  channels: 2
+  frames: 23493
+  bytes: 375888
+  sampleRate: 8000
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/aiff/Samples/AFsp/M1F1-float64C-AFsp.aif
+  md5sum: '0d40435f7aac169fa4167c6f2956b114'
+-
+  path: M1F1-int12-AFsp.aif
+  fileFormat: aiff
+  compression: none
+  sampleFormat: s12
+  byteOrder: big
+  channels: 2
+  frames: 23493
+  bytes: 93972
+  sampleRate: 8000
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/aiff/Samples/AFsp/M1F1-int12-AFsp.aif
+  md5sum: '063634ee3aae870b821b73ea8d7f6011'
+-
+  path: M1F1-int12C-AFsp.aif
+  fileFormat: aifc
+  compression: none
+  sampleFormat: s12
+  byteOrder: big
+  channels: 2
+  frames: 23493
+  bytes: 93972
+  sampleRate: 8000
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/aiff/Samples/AFsp/M1F1-int12C-AFsp.aif
+  md5sum: 'da6539c1d75f177b123528407c9a2bc3'
+-
+  path: M1F1-int16-AFsp.aif
+  fileFormat: aiff
+  sampleFormat: s16
+  byteOrder: big
+  channels: 2
+  frames: 23493
+  bytes: 93972
+  sampleRate: 8000
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/aiff/Samples/AFsp/M1F1-int16-AFsp.aif
+  md5sum: 'f9b56b4b7668e4dca83688a5477eea34'
+-
+  path: M1F1-int16C-AFsp.aif
+  fileFormat: aifc
+  compression: none
+  sampleFormat: s16
+  byteOrder: big
+  channels: 2
+  frames: 23493
+  bytes: 93972
+  sampleRate: 8000
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/aiff/Samples/AFsp/M1F1-int16C-AFsp.aif
+  md5sum: 'eb2544635bf5eb1417a7646c7e7cb49d'
+-
+  path: M1F1-int24-AFsp.aif
+  fileFormat: aiff
+  compression: none
+  sampleFormat: s24
+  byteOrder: big
+  channels: 2
+  frames: 23493
+  bytes: 140958
+  sampleRate: 8000
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/aiff/Samples/AFsp/M1F1-int24-AFsp.aif
+  md5sum: 'c5ba3030af9f8d7eab9cb6417bfca7a5'
+-
+  path: M1F1-int24C-AFsp.aif
+  fileFormat: aifc
+  compression: none
+  sampleFormat: s24
+  byteOrder: big
+  channels: 2
+  frames: 23493
+  bytes: 140958
+  sampleRate: 8000
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/aiff/Samples/AFsp/M1F1-int24C-AFsp.aif
+  md5sum: '827faf6992ef25268f601acb89e20dcc'
+-
+  path: M1F1-int32-AFsp.aif
+  fileFormat: aiff
+  compression: none
+  sampleFormat: s32
+  byteOrder: big
+  channels: 2
+  frames: 23493
+  bytes: 187944
+  sampleRate: 8000
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/aiff/Samples/AFsp/M1F1-int32-AFsp.aif
+  md5sum: '63033c6725cb2c24d21d5b47ca95973b'
+-
+  path: M1F1-int32C-AFsp.aif
+  fileFormat: aifc
+  compression: none
+  sampleFormat: s32
+  byteOrder: big
+  channels: 2
+  frames: 23493
+  bytes: 187944
+  sampleRate: 8000
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/aiff/Samples/AFsp/M1F1-int32C-AFsp.aif
+  md5sum: '2751755871cd7a0722340ed468bc2ec8'
+-
+  path: M1F1-int8-AFsp.aif
+  fileFormat: aiff
+  compression: none
+  sampleFormat: s8
+  channels: 2
+  frames: 23493
+  bytes: 46986
+  sampleRate: 8000
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/aiff/Samples/AFsp/M1F1-int8-AFsp.aif
+  md5sum: 'd0f8739cebbab77e5c78c01b11277cf7'
+-
+  path: M1F1-int8C-AFsp.aif
+  fileFormat: aifc
+  compression: none
+  sampleFormat: s8
+  channels: 2
+  frames: 23493
+  bytes: 46986
+  sampleRate: 8000
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/aiff/Samples/AFsp/M1F1-int8C-AFsp.aif
+  md5sum: '22b821bd38140568fa16552776e8b080'
+-
+  path: M1F1-mulawC-AFsp.aif
+  fileFormat: aifc
+  compression: ulaw
+  channels: 2
+  frames: 23493
+  bytes: 46986
+  sampleRate: 8000
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/aiff/Samples/AFsp/M1F1-mulawC-AFsp.aif
+  md5sum: '0b932afb5e16dffd08911dc1bab52161'
+-
+  path: Pmiscck.aif
+  fileFormat: aifc
+  sampleRate: 8000
+  channels: 1
+  compression: ulaw
+  frames: 9
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/aiff/Samples/AFsp/Pmiscck.aif
+  md5sum: '8eb3c017f8bd45ad9d7f89a5263bb61d'
+-
+  path: Pnossnd.aif
+  fileFormat: aifc
+  sampleRate: 8000
+  channels: 1
+  compression: ulaw
+  frames: 0
+  bytes: 0
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/aiff/Samples/AFsp/Pnossnd.aif
+  md5sum: '1bbba65f12469967af3c693273fa30b8'
+-
+  path: Poffset.aif
+  fileFormat: aifc
+  sampleRate: 8000
+  channels: 1
+  compression: ulaw
+  frames: 9
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/aiff/Samples/AFsp/Poffset.aif
+  md5sum: 'dfc8fc6255be1740809294d585724566'
+-
+  path: Porder.aif
+  fileFormat: aifc
+  sampleRate: 8000
+  channels: 1
+  compression: ulaw
+  frames: 9
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/aiff/Samples/AFsp/Porder.aif
+  md5sum: '7c51dceee214da4e7e31a03a01a50405'
+-
+  path: Ptjunk.aif
+  fileFormat: aifc
+  sampleRate: 8000
+  channels: 1
+  compression: ulaw
+  frames: 9
+  sourceURL: http://www-mmsp.ece.mcgill.ca/documents/audioformats/aiff/Samples/AFsp/Ptjunk.aif
+  md5sum: '394535838820b95dbcb397f4d9778179'

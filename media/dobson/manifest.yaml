@@ -1,0 +1,96 @@
+-
+  path: clbone.wav
+  fileFormat: wave
+  compression: none
+  sampleFormat: s16
+  byteOrder: little
+  channels: 1
+  sampleRate: 22050
+  frames: 56852
+  bytes: 113704
+  sourceURL: http://www.cs.bath.ac.uk/~rwd/clbone.wav
+  md5sum: '5eee1ace4b5f5eb0138fc4af487b1734'
+-
+  path: clbonef.wav
+  fileFormat: wave
+  compression: none
+  sampleFormat: f32
+  byteOrder: little
+  channels: 1
+  sampleRate: 22050
+  frames: 56852
+  bytes: 227408
+  sourceURL: http://www.cs.bath.ac.uk/~rwd/clbonef.wav
+  md5sum: 'cf17b8bfa42e836f23b3d1a2a49976c2'
+-
+  path: fl440.wav
+  fileFormat: wave
+  compression: none
+  sampleFormat: f32
+  byteOrder: little
+  channels: 1
+  sampleRate: 44100
+  frames: 10198
+  bytes: 326340
+  sourceURL: http://www.cs.bath.ac.uk/~rwd/fl440.wav
+  md5sum: '57b9510e48f16a5e3ed2f96c48b54698'
+-
+  path: mono24.wav
+  fileFormat: wave
+  compression: none
+  sampleFormat: s24
+  byteOrder: little
+  channels: 1
+  sampleRate: 22050
+  frames: 43879
+  bytes: 131637
+  sourceURL: http://www.cs.bath.ac.uk/~rwd/mono24.wav
+  md5sum: '198d21cb7193f1c3253fb6f0e3af8707'
+-
+  path: qwave.wav
+  fileFormat: wave
+  compression: none
+  sampleFormat: s16
+  byteOrder: little
+  channels: 4
+  sampleRate: 22050
+  frames: 43773
+  bytes: 350184
+  sourceURL: http://www.cs.bath.ac.uk/~rwd/qwave.wav
+  md5sum: 'b7df7d6dd983f38b4f3ec12b2e2a2fbd'
+-
+  path: sixchan.wav
+  fileFormat: wave
+  compression: none
+  sampleFormat: s16
+  byteOrder: little
+  channels: 6
+  sampleRate: 22050
+  frames: 52059
+  bytes: 624708
+  sourceURL: http://www.cs.bath.ac.uk/~rwd/sixchan.wav
+  md5sum: '7e0adad4950ceae0985a751aab25071c'
+-
+  path: stereofl.aifc
+  fileFormat: aifc
+  compression: none
+  sampleFormat: f32
+  byteOrder: big
+  channels: 2
+  sampleRate: 22050
+  frames: 29016
+  bytes: 232128
+  sourceURL: http://www.cs.bath.ac.uk/~rwd/stereofl.aifc
+  md5sum: '8558e5d9ac54e7859470b5c91bc5efd1'
+-
+  path: stereol.wav
+  fileFormat: wave
+  compression: none
+  sampleFormat: s16
+  byteOrder: little
+  channels: 2
+  sampleRate: 22050
+  frames: 29016
+  bytes: 116064
+  sourceURL: http://www.cs.bath.ac.uk/~rwd/stereol.wav
+  md5sum: '77273074d12fbbb2479d6ceaafe439f9'

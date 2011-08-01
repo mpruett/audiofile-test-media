@@ -1,0 +1,20 @@
+Audio File Library Test Media
+
+http://audiofile.68k.org/
+
+This collection of audio files along with the accompanying verification
+program provide automated testing of the Audio File Library with a
+variety of audio file formats.
+
+All audio files included in this collection are freely redistributable.
+
+Building the verify program requires Gyp:
+
+http://code.google.com/p/gyp/
+
+To build and run the verify program, run the following commands:
+
+% cd src
+% gyp verify.gyp
+% make
+% ./out/Default/verify ../media
