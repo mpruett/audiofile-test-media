@@ -1,0 +1,36 @@
+These files are from the NIST SPHERE distribution:
+
+http://www.itl.nist.gov/iad/mig/tools/sphere_26atarZ.htm
+
+ftp://jaguar.ncsl.nist.gov/pub/sphere_2.6a.tar.Z
+
+ex1_01.wav	- a 1 second speech file, in PCM 01 byte format.  The
+		  speech is the same as ex1_10.wav.
+
+ex1_10.wav	- a 1 second speech file, in PCM 10 byte format.  The
+		  speech is the same as ex1_01.wav.
+
+ex2_01.wav	- a 1 second artificially created waveform, in the PCM 01
+		  byte format.  This file is the same as ex2_10.wav.
+ex2_10.wav	- a 1 second artificially created waveform, in the PCM 10
+		  byte format.  This file is the same as ex2_10.wav.
+
+ex4.wav		- a ulaw converted version of ex1_10.wav
+ex4_01.wav	- a PCM 01 version of ex4.wav.  Note, this is not
+		  expected to be the same as ex1_10.wav.
+ex4_10.wav	- a PCM 10 version of ex4.wav.  Note, this is not
+		  expected to be the same as ex1_10.wav.
+
+ex5.wav		- a 2 channel, 2 second, ULAW file
+ex5_p.wav	- a 2 channel, 2 second, PCM version of ex5.wav
+ex5_p01.wav	- a 01 byte order version of ex5_p.wav
+ex5_c1.wav	- the first channel of ex5.wav
+ex5_c1_p.wav	- a PCM version of ex5_c1.wav
+ex5_c2.wav	- the second channel of ex5.wav
+ex5_c2_p.wav	- a PCM version of ex5_c2.wav
+
+ex6.wav		- a 4 channel pcm data file, 8000 Khz, 1 second
+		  channel 1: 12.5 Hz
+		  channel 2: 25   Hz
+		  channel 3: 50   Hz
+		  channel 4: 100  Hz
