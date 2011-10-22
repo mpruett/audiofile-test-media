@@ -1,0 +1,66 @@
+-
+  path: Acknowledged
+  fileFormat: iff
+  sampleRate: 17897
+  compression: none
+  sampleFormat: s8
+  channels: 1
+  frames: 27682
+  bytes: 27682
+  sourceURL: http://aminet.net/mods/smpl/Acknowledged.lha
+  md5sum: "b380206eb22a1e60d633743092e78e8b"
+-
+  path: BecItsTrash
+  fileFormat: iff
+  sampleRate: 22528
+  compression: none
+  sampleFormat: s8
+  channels: 1
+  frames: 62976
+  bytes: 62976
+  sourceURL: http://aminet.net/mods/smpl/BecItsTrash.lha
+  md5sum: "9a13cdb14b550f23ca27ba6277b02c85"
+-
+  path: ClockChime
+  fileFormat: iff
+  sampleRate: 7418
+  compression: none
+  sampleFormat: s8
+  channels: 1
+  frames: 3978
+  bytes: 3978
+  sourceURL: http://aminet.net/mods/smpl/ClockChime.lha
+  md5sum: "1eafeaadbfdac0862050339400437c06"
+-
+  path: Marvelous
+  fileFormat: iff
+  sampleRate: 13160
+  compression: none
+  sampleFormat: s8
+  channels: 1
+  frames: 17256
+  bytes: 17256
+  sourceURL: http://aminet.net/mods/smpl/Marvelous.lha
+  md5sum: "60d38c25b5ca8e00ad41bb3a5864e86c"
+-
+  path: Negative
+  fileFormat: iff
+  sampleRate: 17897
+  compression: none
+  sampleFormat: s8
+  channels: 1
+  frames: 25934
+  bytes: 25934
+  sourceURL: http://aminet.net/mods/smpl/Negative.lha
+  md5sum: "a4991984217622919ffb8ad07b043588"
+-
+  path: SelfDest
+  fileFormat: iff
+  sampleRate: 11395
+  compression: none
+  sampleFormat: s8
+  channels: 1
+  frames: 30720
+  bytes: 30720
+  sourceURL: http://aminet.net/mods/smpl/SelfDestruct.lha
+  md5sum: "dbda295a3f56412bd862fafa3092125d"
