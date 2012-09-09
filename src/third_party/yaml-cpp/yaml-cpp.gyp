@@ -1,6 +1,6 @@
 {
 	'variables': {
-		'yaml_cpp': 'yaml-cpp-0.2.6'
+		'yaml_cpp': 'yaml-cpp-0.3.0'
 	},
 	'targets': [
 		{
@@ -15,7 +15,34 @@
 				]
 			},
 			'sources': [
+				'<(yaml_cpp)/include/aliasmanager.h',
+				'<(yaml_cpp)/include/anchor.h',
+				'<(yaml_cpp)/include/binary.h',
+				'<(yaml_cpp)/include/conversion.h',
+				'<(yaml_cpp)/include/dll.h',
+				'<(yaml_cpp)/include/emitfromevents.h',
+				'<(yaml_cpp)/include/emitter.h',
+				'<(yaml_cpp)/include/emittermanip.h',
+				'<(yaml_cpp)/include/eventhandler.h',
+				'<(yaml_cpp)/include/exceptions.h',
+				'<(yaml_cpp)/include/iterator.h',
+				'<(yaml_cpp)/include/ltnode.h',
+				'<(yaml_cpp)/include/mark.h',
+				'<(yaml_cpp)/include/node.h',
+				'<(yaml_cpp)/include/nodeimpl.h',
+				'<(yaml_cpp)/include/nodereadimpl.h',
+				'<(yaml_cpp)/include/nodeutil.h',
+				'<(yaml_cpp)/include/noncopyable.h',
+				'<(yaml_cpp)/include/null.h',
+				'<(yaml_cpp)/include/ostream.h',
+				'<(yaml_cpp)/include/parser.h',
+				'<(yaml_cpp)/include/stlemitter.h',
+				'<(yaml_cpp)/include/stlnode.h',
+				'<(yaml_cpp)/include/traits.h',
+				'<(yaml_cpp)/include/yaml.h',
+
 				'<(yaml_cpp)/src/aliasmanager.cpp',
+				'<(yaml_cpp)/src/binary.cpp',
 				'<(yaml_cpp)/src/collectionstack.h',
 				'<(yaml_cpp)/src/conversion.cpp',
 				'<(yaml_cpp)/src/directives.cpp',
@@ -61,7 +88,7 @@
 				'<(yaml_cpp)/src/stringsource.h',
 				'<(yaml_cpp)/src/tag.cpp',
 				'<(yaml_cpp)/src/tag.h',
-				'<(yaml_cpp)/src/token.h'
+				'<(yaml_cpp)/src/token.h',
 			]
 		}
 	]
