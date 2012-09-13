@@ -1,0 +1,10 @@
+-
+  path: traveling.wav
+  fileFormat: wave
+  sampleRate: 22050
+  compression: msadpcm
+  channels: 1
+  frames: 102212
+  bytes: 51712
+  md5sum: "791e571ab3b7eb148329edef66659e69"
+  note: https://github.com/mpruett/audiofile/issues/9
