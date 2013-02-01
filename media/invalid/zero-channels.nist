@@ -1,0 +1,11 @@
+NIST_1A
+   1024
+channel_count -i 0
+sample_count -i 0
+sample_rate -i 44100
+sample_n_bytes -i 2
+sample_byte_format -s2 01
+sample_sig_bits -i 16
+sample_coding -s3 pcm
+end_head
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

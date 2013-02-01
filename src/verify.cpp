@@ -62,6 +62,7 @@ static const char *kByteOrder = "byteOrder";
 static const char *kByteOrder_Big = "big";
 static const char *kByteOrder_Little = "little";
 static const char *kSkip = "skip";
+static const char *kInvalid = "invalid";
 static const char *kMD5Sum = "md5sum";
 
 static const std::string md5sum(const std::string &path)
@@ -166,6 +167,15 @@ public:
 		}
 
 		AFfilehandle file = afOpenFile(m_path.c_str(), "r", NULL);
+
+		if (const YAML::Node *n = m_entry.FindValue(kInvalid))
+		{
+			if (!file)
+				return kSuccess;
+			logerr("opening invalid file did not fail as expected");
+			return kFailure;
+		}
+
 		if (!file)
 		{
 			logerr("could not open file");

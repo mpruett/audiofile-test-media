@@ -1,0 +1,92 @@
+-
+  path: 100-bits-per-sample.aifc
+  invalid: true
+  md5sum: "21776882b92736eb8032b6bcc49ec54a"
+-
+  path: 100-bits-per-sample.aiff
+  invalid: true
+  md5sum: "5803ece57efd21a0a8575f69bf86d5b9"
+-
+  path: 100-bits-per-sample.caf
+  invalid: true
+  md5sum: "e0c639dd7622c47ba66885289ad23afa"
+-
+  path: 100-bits-per-sample.wav
+  invalid: true
+  md5sum: "d67b18b1ea1065fd1b545bd55ae58ba1"
+-
+  path: 33-bits-per-sample.aifc
+  invalid: true
+  md5sum: "3029b3bc04b691685b7e311adca7088c"
+-
+  path: 33-bits-per-sample.aiff
+  invalid: true
+  md5sum: "55208b28d6bf4fed71dcc83172bb723a"
+-
+  path: 33-bits-per-sample.caf
+  invalid: true
+  md5sum: "0b15b20b002fce1c6fa24bd7123a09cb"
+-
+  path: 33-bits-per-sample.wav
+  invalid: true
+  md5sum: "5f21074d1710d17e7e7049d5399619d9"
+-
+  path: zero-bits-per-sample.aifc
+  invalid: true
+  md5sum: "e2bc75a6c0c596eedc08fea020848a80"
+-
+  path: zero-bits-per-sample.aiff
+  invalid: true
+  md5sum: "0b90cf32c977700bb957b89107e6c147"
+-
+  path: zero-bits-per-sample.caf
+  invalid: true
+  md5sum: "9a0126a097f972ba55c63e7fa7185de8"
+-
+  path: zero-bits-per-sample.wav
+  invalid: true
+  md5sum: "950e3de43bb7354bfc6226b2e9214675"
+-
+  path: zero-bytes-per-sample.nist
+  invalid: true
+  md5sum: "38f42381e1674617109360768271856e"
+-
+  path: zero-bytes-per-sample.sf
+  invalid: true
+  md5sum: "6960df6c114fd98fe415f5e84d456dac"
+-
+  path: zero-bytes-per-sample.snd
+  invalid: true
+  md5sum: "0ea378138bdd87525166ea91c7e6743a"
+-
+  path: zero-channels.aifc
+  invalid: true
+  md5sum: "3de99c3eb9ccf078b7b4ffe5ad4361a7"
+-
+  path: zero-channels.aiff
+  invalid: true
+  md5sum: "0a431909e1db04c88f0467becc32eddf"
+-
+  path: zero-channels.caf
+  invalid: true
+  md5sum: "ed2016acfdc40d9ac18d280bde70ee4a"
+-
+  path: zero-channels.nist
+  invalid: true
+  md5sum: "d612c068a99c19d2ffcc2b31ecea1f2d"
+-
+  path: zero-channels.sf
+  invalid: true
+  md5sum: "1d17122a91fe64b5ed5ca607c54530b1"
+-
+  path: zero-channels.snd
+  invalid: true
+  md5sum: "4f26379039807d44ad75955d0040817d"
+-
+  path: zero-channels.voc
+  invalid: true
+  md5sum: "0f68ef34be878f63831c01b57855ed31"
+-
+  path: zero-channels.wav
+  invalid: true
+  md5sum: "3d0114e3febee56cc6cd73e2f065430d"
