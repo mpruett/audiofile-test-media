@@ -57,6 +57,8 @@ static const char *kCompression_MS_ADPCM = "msadpcm";
 static const char *kCompression_IMA_ADPCM = "ima";
 static const char *kCompression_ulaw = "ulaw";
 static const char *kCompression_alaw = "alaw";
+static const char *kCompression_FLAC = "flac";
+static const char *kCompression_ALAC = "alac";
 static const char *kSampleFormat = "sampleFormat";
 static const char *kByteOrder = "byteOrder";
 static const char *kByteOrder_Big = "big";
@@ -279,6 +281,10 @@ public:
 					expectedCompression = AF_COMPRESSION_G711_ULAW;
 				else if (value == kCompression_alaw)
 					expectedCompression = AF_COMPRESSION_G711_ALAW;
+				else if (value == kCompression_FLAC)
+					expectedCompression = AF_COMPRESSION_FLAC;
+				else if (value == kCompression_ALAC)
+					expectedCompression = AF_COMPRESSION_ALAC;
 				else
 				{
 					logerr("bad value for compression: %s, line %d",

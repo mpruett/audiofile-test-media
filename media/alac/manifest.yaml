@@ -1,0 +1,50 @@
+-
+  path: sine16.caf
+  fileFormat: caf
+  compression: alac
+  sampleFormat: s16
+  sampleRate: 44100
+  channels: 2
+  frames: 220500
+  bytes: 113456
+  md5sum: "095a2935b9b49c943e7c3d78d82554ec"
+-
+  path: sine20.caf
+  fileFormat: caf
+  compression: alac
+  sampleFormat: s20
+  sampleRate: 44100
+  channels: 2
+  frames: 220500
+  bytes: 206564
+  md5sum: "a24ec8d622a93c4ec769ff4aedb3c1ab"
+-
+  path: sine24-4channel.caf
+  fileFormat: caf
+  compression: alac
+  sampleFormat: s24
+  sampleRate: 44100
+  channels: 4
+  frames: 220500
+  bytes: 1214664
+  md5sum: "97c079a0bfd5a2871d3cbe5c87be7e4b"
+-
+  path: sine24.caf
+  fileFormat: caf
+  compression: alac
+  sampleFormat: s24
+  sampleRate: 44100
+  channels: 2
+  frames: 220500
+  bytes: 552265
+  md5sum: "74e845c1614e5dd37f5f7f2dc1d46517"
+-
+  path: sine32.caf
+  fileFormat: caf
+  compression: alac
+  sampleFormat: s32
+  sampleRate: 44100
+  channels: 2
+  frames: 220500
+  bytes: 993649
+  md5sum: "ef709964a506394174949b756ce86d4e"

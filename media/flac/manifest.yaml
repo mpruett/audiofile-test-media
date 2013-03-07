@@ -1,0 +1,20 @@
+-
+  path: sine16.flac
+  fileFormat: flac
+  compression: flac
+  sampleFormat: s16
+  sampleRate: 44100
+  channels: 2
+  frames: 220500
+  bytes: 96777
+  md5sum: "429c1a4264e17bbd23a61c30a8e75c4c"
+-
+  path: sine24.flac
+  fileFormat: flac
+  compression: flac
+  sampleFormat: s24
+  sampleRate: 44100
+  channels: 2
+  frames: 220500
+  bytes: 238014
+  md5sum: "3896510aab257a6b10d87dc213fa60b1"
